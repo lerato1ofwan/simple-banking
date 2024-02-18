@@ -1,0 +1,55 @@
+Client/simple-banking-ui/node_modules
+Client/simple-banking-ui/.pnp
+Client/simple-banking-ui/.pnp.js
+
+# testing
+Client/simple-banking-ui/coverage
+
+# production
+Client/simple-banking-ui/build
+
+# misc
+Client/simple-banking-ui/.DS_Store
+Client/simple-banking-ui/.env
+Client/simple-banking-ui/.env.local
+Client/simple-banking-ui/.env.development.local
+Client/simple-banking-ui/.env.test.local
+Client/simple-banking-ui/.env.production.local
+
+Client/simple-banking-ui/npm-debug.log*
+Client/simple-banking-ui/yarn-debug.log*
+Client/simple-banking-ui/yarn-error.log*
+
+
+Server/SimpleBanking.Api/*.swp
+Server/SimpleBanking.Api/*.*~
+Server/SimpleBanking.Api/project.lock.json
+Server/SimpleBanking.Api/.DS_Store
+Server/SimpleBanking.Api/*.pyc
+
+# Visual Studio Code
+Server/SimpleBanking.Api/.vscode
+
+# User-specific files
+Server/SimpleBanking.Api/*.suo
+Server/SimpleBanking.Api/*.user
+Server/SimpleBanking.Api/*.userosscache
+Server/SimpleBanking.Api/*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Visual Studio 2015
+.vs/
