@@ -73,7 +73,7 @@ Update-Database
 - Make sure you already have `Node.js` and `npm` installed in your system.
 - You need an environment variable to point to your API, run your API and grab the URL
 - Then, create a .env file on the base root of your simple-banking-ui (Should be under /Client/simple-banking-ui from the project root)
-- In your created .env file add </br >
+- In your created .env file add (Important to note: after the api URL add a "/api" e.g https://localhost:7231/api) </br >
 `
 REACT_APP_BASE_API_URL=replace-this-with-your-api-url
 `
