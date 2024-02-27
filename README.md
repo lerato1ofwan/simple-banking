@@ -23,10 +23,6 @@ This project comprises of 2 solutions:)<br />
 
 <br/>
 
-## 💻 Live Demo:
-
-https://simple-banking-ui.onrender.com/
-
 <br/>
 
 ## ⚡ Install
