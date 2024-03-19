@@ -1,11 +1,14 @@
 ![Application screenshot](./Client/simple-banking-ui/public/screenshot.JPG)
 
 <br/>
+## 💻 Live Demo:
+
+[http://simple-banking-web-app-lb-1268003747.eu-west-1.elb.amazonaws.com/](http://simple-banking-web-app-lb-1268003747.eu-west-1.elb.amazonaws.com/)
 <br/>
 
 ## 🏦🏧 Simple Banking (simulation)
 
-With [The Simple Banking App](https://simple-banking-ui.onrender.com/) users get interact with a few couple of simulated banking transactions.
+With [The Simple Banking App](http://simple-banking-web-app-lb-1268003747.eu-west-1.elb.amazonaws.com/) users get interact with a few couple of simulated banking transactions.
 
 Features developed in this project include:
 
