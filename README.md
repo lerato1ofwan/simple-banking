@@ -1,9 +1,11 @@
 ![Application screenshot](./Client/simple-banking-ui/public/screenshot.JPG)
 
 <br/>
+
 ## 💻 Live Demo:
 
 [http://simple-banking-web-app-lb-1268003747.eu-west-1.elb.amazonaws.com/](http://simple-banking-web-app-lb-1268003747.eu-west-1.elb.amazonaws.com/)
+
 <br/>
 
 ## 🏦🏧 Simple Banking (simulation)
